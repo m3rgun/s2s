@@ -27,7 +27,7 @@ Before using Sigma2Splunk, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/napnapnapster/s2s.git
+   git clone https://github.com/m3rgun/s2s.git
    cd s2s
    ```
 
